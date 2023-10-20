@@ -44,7 +44,7 @@
 
 /* ОТПРАВКА ПИСЬМА НА ПОЧТУ*/
 
-$to ='glmalyona@gmail.com';
+$to ='order@salesgenerator.pro';
 $email = clear_data($_POST['email']);
 $phone = clear_data($_POST['phone']);
 $subject ='Заявка с сайта - Гюлумян Алёна';
